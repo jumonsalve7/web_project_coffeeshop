@@ -178,7 +178,7 @@
   text-align: center;
 }
 
-.form__container {
+.reservation__container {
   margin: 100px auto 120px;
 }
 
@@ -246,7 +246,6 @@
   justify-content: center;
   align-items: center;
 }
-
 
 .form__checkbox:checked {
   -webkit-appearance: none;
