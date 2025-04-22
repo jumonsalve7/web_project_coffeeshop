@@ -182,7 +182,7 @@
   margin: 100px auto 120px;
 }
 
-.form__fieldset {
+.reservation__form__fieldset {
   display: flex;
   flex-direction: column;
   border-style: none;
