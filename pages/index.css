@@ -176,14 +176,13 @@
   font-size: 44px;
   line-height: 52px;
   text-align: center;
-  margin: 100px 0 0;
+  margin: 100px auto 80px;
 }
 
 .form__fieldset {
   display: flex;
   flex-direction: column;
   border-style: none;
-  margin-top: 80px;
   padding: 0;
 }
 
